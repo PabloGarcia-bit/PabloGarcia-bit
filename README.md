@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=450&section=header&text=Bienvenido, soy pablo&fontSize=90&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=33FF33&height=120&section=header&bg_color=000000" width="100%" alt="tech background" />
-</p>
 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 
