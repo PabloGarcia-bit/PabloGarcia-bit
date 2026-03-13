@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Bienvenido,%20soy%20Pablo&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
-
 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 
