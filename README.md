@@ -11,3 +11,5 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 ### Contacto
 Proximamente...
+
+![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Tu%20Nombre&fontSize=70&animation=fadeIn)
