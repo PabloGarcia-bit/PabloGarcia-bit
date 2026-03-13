@@ -1,6 +1,6 @@
 # Hello, I am Pablo
 
-I am actually an student os DAM
+I am actually an student of DAM
 
 
 ### My skills
